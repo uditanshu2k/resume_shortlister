@@ -1,0 +1,8 @@
+pandas
+pdfminer.six
+os
+re
+csv
+scikit-learn
+transformers
+torch
